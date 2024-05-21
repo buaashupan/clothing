@@ -1,7 +1,7 @@
 # samples
-## price     :  $5-$500 according to the material and workmanship
-## material  :  cutton \ silk \ flax \ man-made fibre such as Nylon
-## 
+### Factory price :  $5-$50-$500 according to the material and craftsmanship
+### material : cutton \ silk \ flax \ man-made fibre such as Nylon
+#
 <img src="https://github.com/buaashupan/clothing/blob/main/skirt/1.jpg" style="width:50%;height:50%;"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/skirt/2.jpg" style="width:50%;height:50%;"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/skirt/3.jpg" style="width:50%;height:50%;"/>
