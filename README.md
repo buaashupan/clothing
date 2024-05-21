@@ -1,4 +1,4 @@
-<img src="https://github.com/buaashupan/clothing/blob/main/skirt/1.jpg" style="zoom:50%"/>
+<img src="https://github.com/buaashupan/clothing/blob/main/skirt/1.jpg" style="width:50%;height:50%;"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/skirt/2.jpg"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/skirt/3.jpg"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/skirt/4.jpg"/>
