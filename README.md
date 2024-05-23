@@ -2,7 +2,7 @@
 ### Factory price :  $5-$100 according to the material and craftsmanship
 ### Material : cutton \ silk \ flax \ bamboo \ man-made fibre such as Nylon
 #
-<img src="https://github.com/buaashupan/clothing/blob/main/skirt/1.jpg" style="width:50%;height:50%;"/>
+<img src="https://github.com/buaashupan/clothing/blob/main/skirt/1.jpg" style="width:50%;height:auto;"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/skirt/2.jpg" style="width:50%;height:50%;"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/skirt/3.jpg" style="width:50%;height:50%;"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/skirt/4.jpg" style="width:50%;height:50%;"/>
