@@ -197,5 +197,5 @@
 <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/69.png" style="width:50%;height:50%;"/> <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/70.png" style="width:50%;height:50%;"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/71.png" style="width:50%;height:50%;"/> <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/72.png" style="width:50%;height:50%;"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/73.png" style="width:50%;height:50%;"/> <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/74.png" style="width:50%;height:50%;"/>
-<img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/75.png" style="width:50%;height:auto;"/> <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/76.png" style="width:50%;height:auto;"/>
+<img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/75.png" style="width:50%;height:50%;"/> <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/76.png" style="width:50%;height:50%;"/>
 <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/77.png" style="width:50%;height:50%;"/> <img src="https://github.com/buaashupan/clothing/blob/main/man_trousers/78.png" style="width:50%;height:50%;"/>
